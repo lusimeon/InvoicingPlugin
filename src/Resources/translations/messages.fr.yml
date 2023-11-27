@@ -2,6 +2,7 @@ sylius_invoicing_plugin:
     ui:
         billing_data: 'Données de facturation'
         buyer: 'Acheteur'
+        discounted_unit_net_price: 'Prix TTC unitaire remisé'
         download_invoice: 'Télécharger'
         gross_value: 'Prix HT'
         invoice: 'Facture'
